@@ -13,3 +13,8 @@ Videos :
 https://youtu.be/Kg5qWuOF9P8
 
 10/10/25 : Add prelim front drive unit V1 board design (work in progress).
+
+25/03/26 : PCB Layout in progress.
+
+![FDU_V1](https://github.com/user-attachments/assets/20f953f5-37cf-488d-ad7d-e856443e6bcf)
+
