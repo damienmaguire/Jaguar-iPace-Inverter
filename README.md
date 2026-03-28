@@ -18,3 +18,5 @@ https://youtu.be/Kg5qWuOF9P8
 
 ![FDU_V1](https://github.com/user-attachments/assets/20f953f5-37cf-488d-ad7d-e856443e6bcf)
 
+
+28/03/26 : Layout done. First prototypes ordered from JLCPCB.
